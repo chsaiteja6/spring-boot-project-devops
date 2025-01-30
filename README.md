@@ -28,5 +28,9 @@ This project provides a **Product Service** application with APIs to create, vie
 - docker images:
 - saiteja413/productsapp-service image is from docker hub which I used to deploy in minikube cluster it corresponds to my spring boot project
 - postgres image is responsible for running database container in docker
+
+![Screenshot 2025-01-30 224426](https://github.com/user-attachments/assets/3189a545-79b4-4723-a3a3-acd56d0bd83c)
+
+
   
 
